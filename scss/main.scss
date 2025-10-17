@@ -19,6 +19,9 @@ main {
 
     h2 {
       color: variables.$primary-color;
+      &:hover {
+        opacity: 40%;
+      }
     }
   }
 }

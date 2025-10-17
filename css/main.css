@@ -44,5 +44,8 @@ main section {
 main section h2 {
   color: #3498db;
 }
+main section h2:hover {
+  opacity: 40%;
+}
 
 /*# sourceMappingURL=main.css.map */
